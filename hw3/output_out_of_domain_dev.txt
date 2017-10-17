@@ -1496,7 +1496,7 @@ the	DT
 facts	NNS
 .	.
 
----------	:
+---------	NN
 
 Bush	NNP
 's	POS
