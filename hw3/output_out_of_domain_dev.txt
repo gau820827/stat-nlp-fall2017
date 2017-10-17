@@ -61,7 +61,7 @@ now	RB
 :	:
 John	NNP
 Paul	NNP
-STEVENS	NNPS
+STEVENS	NNP
 delivered	VBD
 the	DT
 opinion	NN
@@ -3387,7 +3387,7 @@ non-Arab	NN
 and	CC
 also	RB
 significant	JJ
-non-Moslem	NNP
+non-Moslem	NN
 minorities	NNS
 .	.
 
@@ -8311,7 +8311,7 @@ it	PRP
 ,	,
 the	DT
 Palestinian	JJ
-Hamas	NNPS
+Hamas	NNS
 and	CC
 Islamic	NNP
 Jihad	NNP
@@ -12084,7 +12084,7 @@ appetite	NN
 for	IN
 suicide	NN
 ,	,
-Musharraf	NNP
+Musharraf	PRP
 will	MD
 face	VB
 the	DT
@@ -12719,7 +12719,7 @@ Anton	NNP
 Balasingham	NNP
 and	CC
 Norwegian	JJ
-envoy	NN
+envoy	NNP
 Erik	NNP
 Solheim	NNP
 held	VBD
@@ -14611,8 +14611,8 @@ outfits	NN
 such	JJ
 as	IN
 the	DT
-Pakistani	JJ
-Inter-	SYM
+Pakistani	NNP
+Inter-	:
 Services	NNP
 Intelligence	NNP
 (	(
@@ -15168,7 +15168,7 @@ the	DT
 cover	NN
 of	IN
 the	DT
-Islamist	NN
+Islamist	JJ
 movement	NN
 ,	,
 have	VBP
@@ -20493,8 +20493,8 @@ The	DT
 imprisoned	VBN
 WTC	NNP
 1993	CD
-plotter	NNP
-Yousef	NNP
+plotter	NN
+Yousef	NN
 was	VBD
 KSM	NNP
 's	POS

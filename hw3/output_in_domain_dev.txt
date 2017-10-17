@@ -36938,7 +36938,7 @@ computer	NN
 services	NNS
 .	.
 
-Memotec	NN
+Memotec	NNP
 said	VBD
 the	DT
 agreement	NN
@@ -37005,7 +37005,7 @@ and	CC
 debentures	NNS
 .	.
 
-Memotec	NN
+Memotec	NNP
 said	VBD
 the	DT
 tender	NN
