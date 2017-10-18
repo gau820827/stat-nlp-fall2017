@@ -504,7 +504,7 @@ Oversight	NNP
 Board	NNP
 has	VBZ
 been	VBN
-remiss	JJ
+remiss	NNS
 in	IN
 not	RB
 keeping	VBG
@@ -2000,7 +2000,7 @@ that	WDT
 had	VBD
 been	VBN
 done	VBN
-unto	NN
+unto	RB
 similarly	RB
 by	IN
 the	DT
@@ -2179,7 +2179,7 @@ in	IN
 green	JJ
 and	CC
 gold	NN
-salted	VBN
+salted	VBD
 away	RP
 successes	NNS
 to	TO
@@ -2452,7 +2452,7 @@ it	PRP
 dives	VBZ
 beneath	IN
 the	DT
-lunging	NN
+lunging	JJ
 bat	NN
 .	.
 
@@ -2545,7 +2545,7 @@ this	DT
 Series	NNP
 of	IN
 the	DT
-Subway	NNP
+Subway	NN
 Called	VBD
 BART	NNP
 (	(
@@ -2729,7 +2729,7 @@ latter	NN
 although	IN
 it	PRP
 probably	RB
-springs	NNS
+springs	VBZ
 from	IN
 the	DT
 fact	NN
@@ -2891,7 +2891,7 @@ second	JJ
 inning	NN
 ,	,
 and	CC
-homered	VBD
+homered	VBN
 for	IN
 his	PRP$
 team	NN
@@ -12395,8 +12395,8 @@ the	DT
 game	NN
 (	(
 ``	``
-Bluefield	NNP
-lost	VBD
+Bluefield	VB
+lost	VBN
 ,	,
 9	CD
 -	SYM
@@ -12797,7 +12797,7 @@ $	$
 55,000	CD
 .	.
 
-CURBING	VBG
+CURBING	NN
 WAGE	NN
 BOOSTS	NNS
 will	MD
@@ -13487,8 +13487,8 @@ breathing	VBG
 period	NN
 that	IN
 ``	``
-brought	VBN
-rationality	NN
+brought	VBD
+rationality	RB
 back	RB
 to	IN
 the	DT
@@ -20370,7 +20370,7 @@ keeping	VBG
 the	DT
 market	NN
 orderly	JJ
-groped	JJ
+groped	VBN
 to	TO
 find	VB
 buy	NN
@@ -28155,7 +28155,7 @@ fastest	JJS
 and	CC
 most	RBS
 sensitive	JJ
-monochrome	NN
+monochrome	JJ
 films	NNS
 .	.
 
@@ -29279,7 +29279,7 @@ the	DT
 appeal	NN
 .	.
 
-McClatchy	NNP
+McClatchy	NN
 Newspapers	NNS
 Inc.	NNP
 said	VBD
@@ -30785,8 +30785,8 @@ Bankruptcy	NNP
 Code	NNP
 .	.
 
-CENTRUST	RB
-SAVINGS	NNP
+CENTRUST	NNP
+SAVINGS	NNPS
 BANK	NNP
 (	(
 Miami	NNP
@@ -36881,7 +36881,7 @@ US$	$
 )	)
 .	.
 
-Memotec	NN
+Memotec	NNP
 said	VBD
 under	IN
 the	DT
@@ -38891,7 +38891,7 @@ people	NNS
 were	VBD
 n't	RB
 running	VBG
-pell	NN
+pell	JJ
 -	HYPH
 mell	NN
 to	IN
